@@ -13,4 +13,5 @@ In other words, this is the foundation for building the AirBnB clone. It is the 
 ## Authors
 
 Mehdi Ait Mouh - [Github](https://github.com/mehdi-dev97)
+
 Ibtissam Toujni - [Github](https://github.com/IbtissamSmile)
